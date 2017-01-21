@@ -1,0 +1,52 @@
+1482396114849	geckodriver	INFO	Listening on 127.0.0.1:53744
+1482396116850	mozprofile::profile	INFO	Using profile path C:\Users\7272~1\AppData\Local\Temp\rust_mozprofile.x1AUcIFVGjKS
+1482396116862	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1482396116895	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53755
+1482396119366	Marionette	INFO	Listening on port 53755
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yg/r/ZRJcxhgwiCm.js, line 21: unreachable code after return statement
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1429: TypeError: this.transport is null
+r.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1429: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 500: TypeError: aPool is null
